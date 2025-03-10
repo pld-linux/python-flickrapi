@@ -9,7 +9,7 @@
 Summary:	Python module for interfacing with the Flickr API
 Name:		python-%{pypi_name}
 Version:	2.2.1
-Release:	8
+Release:	9
 License:	Python
 Group:		Libraries/Python
 URL:		http://stuvel.eu/flickrapi
